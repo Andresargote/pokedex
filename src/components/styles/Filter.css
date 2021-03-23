@@ -1,0 +1,17 @@
+.filters {
+    width: 80%;
+    margin: 20px auto;
+    text-align: start;
+}
+
+.filters label {
+    margin-right: 5px;
+}
+
+.filters select {
+    margin-right: 20px;
+}
+
+.filters select:last-child {
+    margin-right: 0px;
+}

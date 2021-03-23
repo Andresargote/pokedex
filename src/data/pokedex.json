@@ -1,0 +1,180 @@
+[
+    {
+      "number": "001",
+      "name": "bulbasaur",
+      "type": "leaf",
+      "weaknesses": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/001.png",
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "category": "seed",
+      "evolutions": [
+        {
+          "number": "001",
+          "name": "bulbasaur"
+        },
+        {
+          "number": "002",
+          "name": "ivysaur"
+        },
+        {
+          "number": "003",
+          "name": "venusaur"
+        }
+      ]
+    },
+    {
+      "number": "002",
+      "name": "ivysaur",
+      "type": "leaf",
+      "weaknesses": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/002.png",
+      "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "category": "seed",
+      "evolutions": [
+        {
+          "number": "001",
+          "name": "bulbasaur"
+        },
+        {
+          "number": "002",
+          "name": "ivysaur"
+        },
+        {
+          "number": "003",
+          "name": "venusaur"
+        }
+      ]
+    },
+    {
+      "number": "364",
+      "name": "sealeo",
+      "type": "ice",
+      "weaknesses": [
+        "grass",
+        "electric",
+        "rock",
+        "fighting"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/364.png",
+      "description": "Sealeo live on top of drift ice. They go swimming when they’re on the hunt, seeking out their prey by scent.",
+      "category": "ball roll",
+      "evolutions": [
+        {
+          "number": "363",
+          "name": "spheal"
+        },
+        {
+          "number": "364",
+          "name": "sealeo"
+        },
+        {
+          "number": "365",
+          "name": "walrein"
+        }
+      ]
+    },
+    {
+      "number": "147",
+      "name": "dratini",
+      "type": "dragon",
+      "weaknesses": [
+        "ice",
+        "dragon",
+        "fairy"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/147.png",
+      "description": "Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.",
+      "category": "dragon",
+      "evolutions": [
+        {
+          "number": "147",
+          "name": "dratini"
+        },
+        {
+          "number": "148",
+          "name": "dragonair"
+        },
+        {
+          "number": "149",
+          "name": "dragonite"
+        }
+      ]
+    },
+    {
+      "number": "716",
+      "name": "xerneas",
+      "type": "fairy",
+      "weaknesses": [
+        "steel",
+        "poison"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/716.png",
+      "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+      "category": "life",
+      "evolutions": [
+        {
+          "number": "716",
+          "name": "fairy"
+        }
+      ]
+    },
+    {
+      "number": "301",
+      "name": "delcatty",
+      "type": "normal",
+      "weaknesses": [
+        "fighting"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/301.png",
+      "description": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",
+      "category": "prim",
+      "evolutions": [
+        {
+          "number": "300",
+          "name": "skitty"
+        },
+        {
+          "number": "301",
+          "name": "delcatty"
+        }
+      ]
+    },
+    {
+      "number": "065",
+      "name": "alakazam",
+      "type": "psychic",
+      "weaknesses": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
+      "img_link": "https://nedi-fe-ch-1-images.s3.amazonaws.com/065.png",
+      "description": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+      "category": "psi",
+      "evolutions": [
+        {
+          "number": "063",
+          "name": "abra"
+        },
+        {
+          "number": "064",
+          "name": "kadabra"
+        },
+        {
+          "number": "065",
+          "name": "alakazam"
+        }
+      ]
+    }
+  ]
+  

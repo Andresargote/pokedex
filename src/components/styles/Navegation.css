@@ -1,0 +1,18 @@
+ul {
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+    padding: 0px;
+}
+
+ul button {
+    cursor: pointer;
+    border: 1px solid #dedede;
+    padding: 5px 10px;
+    margin-right: 10px;   
+}
+
+ul button.active{
+    background: #CD5C5C;
+    color: white;
+}

@@ -1,0 +1,43 @@
+.information {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dedede;
+    width: fit-content;
+    padding: 10px;
+    text-align: start;
+    height: 200px;
+    width: 49%;
+    position: relative;
+}
+
+.information span > div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.information .weaknesses {
+    margin-right: 10px;
+    border: 2px solid #dedede;
+    padding: 1px 8px;
+    border-radius: 10px;
+}
+
+.information .heart {
+    position: relative;
+    cursor: pointer;
+    stroke: #949494;
+    position: absolute;
+    right: 10px;
+}
+
+.information .heart-active {
+    stroke: red;
+    fill: red;
+}
+
+@media screen and (max-width: 460px){
+    .information{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,17 @@
+header {
+    width: 80%;
+    margin: 0 auto;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+main section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+

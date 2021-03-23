@@ -1,0 +1,26 @@
+.evolution {
+    border: 1px solid #dedede;
+    padding: 10px;
+}
+
+.evolution .pokemon-card {
+    border: 1px solid #dedede;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.evolution .pokemon-card span {
+    margin-bottom: 10px;
+}
+
+.evolution .pokemon-card span:last-child {
+    margin-bottom: 0px;
+}
+
+.evolution .pokemon-active {
+    background: #1E90FF;
+    color: white;
+}
