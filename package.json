@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Andresargote/pokedex.git",
+  "author": "Andres Argote <andresargote2019@gmail.com>",
+  "license": "MIT"
 }
