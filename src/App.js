@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./pages/Home";
 import AppRouter from "./routers/AppRouter";
-import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
+import { withAuthenticator } from "@aws-amplify/ui-react";
 
 function App() {
   return (
