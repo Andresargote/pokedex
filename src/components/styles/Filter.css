@@ -1,6 +1,7 @@
 .filters {
     width: 80%;
     margin: 20px auto;
+    display: flex;
     text-align: start;
 }
 
@@ -14,4 +15,19 @@
 
 .filters select:last-child {
     margin-right: 0px;
+}
+
+@media screen and (max-width: 460px){
+    .filters{
+        flex-direction: column;
+    }
+    .filters label {
+        margin-bottom: 10px;
+    }
+    .filters select {
+        margin-bottom: 10px;
+    }
+    .filters select:last-child {
+        margin-bottom: 0px;
+    } 
 }

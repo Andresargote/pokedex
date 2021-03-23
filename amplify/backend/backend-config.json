@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "pokedex793f6ca1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

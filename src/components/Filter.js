@@ -9,19 +9,16 @@ export default function Filter() {
     const { filterPokemons } = useContext(PokemonsContext);
 
 
-    useEffect(() => {
-        filterPokemons(valueSelect, sortSelect);
-    }, [valueSelect, sortSelect])
-
-
     const handleOnchange = (e) => {
         const newValue = e.target.value;
         setValueSelect(newValue);
+        filterPokemons(newValue, sortSelect)
     }
 
     const handleSort = (e) => {
         const sort = e.target.value;
         setSortSelect(sort);
+        filterPokemons(valueSelect, sort)
     }
 
     return (
